@@ -1,0 +1,6 @@
+Magpie	    Bird	 Forest
+Eagle	    Bird	 Mountain
+Tiger Shark	Fish	 Freshwater
+Dolphin	    Mammal	 Ocean
+Polar Bear	Mammal	 Polar
+Lizard	    Reptile	 Desert
